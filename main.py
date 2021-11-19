@@ -4,4 +4,4 @@ def print_hi(name):
 
 if __name__ == '__main__':
     print_hi('PyCharm')
-    print_hi("Hitler")
+    print('UFO came and added this line')
